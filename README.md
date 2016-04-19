@@ -23,7 +23,7 @@ wget http://dist.sonar.codehaus.org/sonarqube-5.1.zip
 unzip sonarqube-5.1.zip
 or click here then unzip the downloaded file
  
-4)Then move sonarqube-5.3 in to /opt/sonar folder
+4)Then move sonarqube-5.1 in to /opt/sonar folder
 mv sonarqube-5.1 /opt/sonar
 5)open opt/sonar/conf/sonar.properties and edit the following lines as follows
 sonar.jdbc.username=sonar
